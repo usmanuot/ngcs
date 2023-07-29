@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869302162309",
+    "project_id": "ngcs-flutter",
+    "storage_bucket": "ngcs-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869302162309:android:2b31d492d916084cf9eaec",
+        "android_client_info": {
+          "package_name": "com.example.new_ngcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869302162309-hqj3n6tcmn9tpsc6ah1kcfuur68lpilo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3HIrAvoE-9oxNNRIwVWiQN9dfJO1APSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869302162309-hqj3n6tcmn9tpsc6ah1kcfuur68lpilo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

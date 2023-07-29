@@ -1,0 +1,88 @@
+name: new_ngcs
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_auth:
+  firebase_core:
+  stacked:
+  provider:
+  google_fonts:
+
+  image_picker:
+  firebase_storage:
+  permission_handler:
+  firebase_database:
+  flutter_easyloading:
+  cloud_firestore:
+  firebase_analytics:
+  firebase_phone_auth_handler:
+  searchbar_animation:
+  anim_search_bar: ^2.0.3
+
+
+  path_provider:
+#  flutter_pdfview: ^1.0.0
+  pdf: ^3.1.0
+  open_file: ^3.1.0
+  printing: ^5.5.0
+#  syncfusion_flutter_pdf:
+
+
+
+
+  #  get:
+  intl:
+#  firestore_ui:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+
+#  fonts:
+#    - family: Open Sans
+#      fonts:
+#        - asset: fonts/
+
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+   - assets/images/
+   - assets/fonts/urdufonts/Gandhara Suls Regular.ttf
+   - assets/fonts/OpenSans-Regular.ttf
+  #   - images/a_dot_ham.jpeg
+
+
+
+    # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+   #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  fonts:
+    - family: 'OpenSense'
+      fonts:
+        - asset: fonts/OpenSans-Regular.ttf
+#   - asset: fonts/OpenSans-Regular.ttf
+#   - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

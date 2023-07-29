@@ -1,0 +1,13 @@
+const String companuNameUrdu = 'نیو گدون کارگو سروس (رجسٹرڈ)';
+const String builtyUrdu = 'بلٹی نمبر: ';
+const String senderUrdu = 'ارسال کنندہ: ';
+const String receiverUrdu = ' وصول کنندہ: ';
+const String truckNoUrdu = 'ٹرک نمبر: ';
+const String driverNameUrdu = 'ڈرائیور نام: ';
+const String numberingUrdu = 'نمبرنگ: ';
+const String detailsUrdu = 'سامان کی تفصیلات: ';
+const String weightUrdu = 'کلو گرام میں وزن: ';
+const String totalRentUrdu = 'کل کرایہ: ';
+const String advanceRentUrdu = 'پیشگی کرایہ: ';
+const String restRentUrdu = 'باقی کرایہ: ';
+const String conditionUrdu = 'کِفیت: ';
